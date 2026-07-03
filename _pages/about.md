@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-👨🏻‍💻 Research Assistant @ Fraunhofer ENAS 
+👨🏻‍💻 Research Assistant @ JKU Linz, Dept. of Buisness Informatics - Software Engineering 
 
 Currently exploring: The evolution of digital twins in Simulations.
 
