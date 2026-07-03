@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **M.Sc. in Advanced Manufacturing (Simulations)**, [Technical University of Chemnitz, Germany](https://www.tu-chemnitz.de/index.html.en), 2023-2026
-  * **Grades:** 1.92/4
+  * **Grades:** 1.7/4
   * **Relevant Coursework:** Applied Modelling and Simulation in Solid Mechanics, Composite Hybrid Structures, Additive Manufacturing, Digital manufacturing (Digital twins)
   * **Thesis:** Development of Parametrizable Meshing Algorithm for Simulation of FuelCells in OpenFOAM
   * **Advisors:** [Prof. Thomas von Umwerth](https://www.tu-chemnitz.de/projekt/alf/content.php?view=mitarbeiter_details&id=1&lang=en), [Marcus Schaedler](https://www.tu-chemnitz.de/projekt/alf/content.php?view=mitarbeiter_details&id=47&lang=en)
