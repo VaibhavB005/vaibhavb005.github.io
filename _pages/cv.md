@@ -37,22 +37,23 @@ Photo for Manager Kaizen to be added
 Skills
 ======
 * **Numerical Simulations:**
+  * System Simulations (Digital Twins, Mathematical Modelling)
   * FEA (Structural, Thermal, Harmonic, Electrothermo-mechanical)
   * CFD (Fluid Structure interaction, Internal flows, Conjugate Heat Transfer)
   * Multiphase (Volume of Fluid (VOF), Eulerian-Eulerian, Discrete Phase Modelling (DPM), Eulerian Thin Film Modelling (ETFM))
-* **Softwares:** ANSYS Mechanical, ANSYS Fluent, ANSYS CFX, OpenFOAM, COMSOL Multiphysics, Simulink, Hyperworks (Hypermesh, OptiStruct)
+* **Softwares:** MATLAB, Simulink, ANSYS Mechanical, ANSYS Fluent, ANSYS CFX, OpenFOAM, COMSOL Multiphysics, Hyperworks (Hypermesh, OptiStruct)
 * **CAD & Design:** Solidworks, Autodesk Fusion 360, PTC CREO, Salome  
 * **Programming:** Python (Numpy, matplotlib, Pandas), MATLAB, C++ 
 
 Work experience
 ======
 * **Research Assistant**, Fraunhofer Institute for Electronic Nano Systems [(ENAS)](https://www.enas.fraunhofer.de/en/research_and_development_service/design_simulation_and_modeling.html), Chemnitz, Germany
-  <br> 10/2025 - Present - Part-time
+  <br> 10/2025 - 05/2026 - Part-time
   * Automation of complex electro-thermal simulation workflows for Power electronics assemblies in ANSYS using Python
   * Supervisor: [Kshitij Kolas](https://scholar.google.com/citations?user=g8EgrM8AAAAJ&hl=en)
 
 * **Research Assistant**, Professorship of Advanced Powertrains [(Professur Alternativ Fahrzeugantriebe)](https://www.tu-chemnitz.de/projekt/alf/content.php?view=start&lang=en), TU Chemnitz, Germany
-  <br> 05/2025 - Present - Part-time
+  <br> 05/2025 - 05/2026 - Part-time
   * Development of Parametric Meshing algorithm for the Simulation of Fuel Cells with OpenFOAM
   * Python for parametric Stack Mesh generation
   * Multiphase simulation (Diffusivity models, Electrochemistry, Conjugate Heat Transfer)
