@@ -14,6 +14,8 @@ redirect_from:
 Currently exploring: The evolution of digital twins in Simulations.
 
 
+# Profile
+
 ## Professional Experience
 
 Currently, I am working as a Doctoral Researcher at JKU Linz with focus on systematic evolution of digital twins including and not limited to themes such as ontological represtations etc.
